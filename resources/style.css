@@ -17,3 +17,14 @@ h3{
 .navbar{
   font-size: 18px;
 }
+p{
+  font-size: 14px;
+}
+.footer{
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+.copyright{
+  font-size: 11px;
+}
