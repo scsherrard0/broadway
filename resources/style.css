@@ -28,6 +28,6 @@ p{
 .copyright{
   font-size: 11px;
 }
-a{
+a, a:visited{
   color: white;
 }
